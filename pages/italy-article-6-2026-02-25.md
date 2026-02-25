@@ -111,7 +111,7 @@ Existing ETS State aid frameworks focus primarily on **indirect cost compensatio
 
 ---
 
-### 5. Conclusion
+## 5. Conclusion
 
 I think it is highly unlikely that the European Commission will approve Article 6 in its current form. At its core, the measure seeks to dilute the carbon price signal embedded in the EU ETS, a mechanism that sits at the centre of the EU’s decarbonisation strategy and its broader industrial policy. The ETS is not only a climate instrument; it is also designed to drive capital allocation, stimulate clean investment, and support Europe’s re-industrialisation through predictable carbon pricing.
 
